@@ -19,7 +19,18 @@ A comprehensive Student Management System built using Java Swing, JDBC, and MySQ
 - **Ikonli** for modern icons
 
 ## Screenshots
-*(Add screenshots here)*
+<img width="1918" height="1021" alt="image" src="https://github.com/user-attachments/assets/cfa4878d-402b-4f34-928c-cd186c759acb" />
+<img width="1918" height="1013" alt="image" src="https://github.com/user-attachments/assets/4ade385c-e87f-48d4-aa71-4da5873b4e89" />
+<img width="1918" height="1013" alt="image" src="https://github.com/user-attachments/assets/a086a447-9d7a-4b41-859d-e0d1831813ef" />
+<img width="1918" height="1012" alt="image" src="https://github.com/user-attachments/assets/8b576359-62e4-4c36-a92c-624696523db1" />
+<img width="1918" height="1015" alt="image" src="https://github.com/user-attachments/assets/8091991c-d381-4a38-a5e2-7af9e7a4af65" />
+<img width="1918" height="1018" alt="image" src="https://github.com/user-attachments/assets/9f374b52-ff9c-46c2-a3b8-36e0eb681124" />
+<img width="1918" height="1018" alt="image" src="https://github.com/user-attachments/assets/3182d8d7-ff6d-4084-9e03-0f31e7d426c5" />
+<img width="1917" height="1012" alt="image" src="https://github.com/user-attachments/assets/934bf1fd-0af1-4abd-ae2a-302a82ca6721" />
+
+
+
+
 
 ## Project Structure
 - `src/` - Contains all Java source files
