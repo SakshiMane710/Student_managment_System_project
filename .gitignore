@@ -1,0 +1,16 @@
+target/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Local configuration and secrets
+local.properties
+application-local.properties
+db_password.txt
+secrets.properties
+.env
+
+# Logs
+*.log
